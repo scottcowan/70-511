@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <GroupBox Header="groupBox1" Height="100" HorizontalAlignment="Left" Margin="12,12,0,0" Name="groupBox1" VerticalAlignment="Top" Width="200">
+            <Grid>
+                <RadioButton Content="Pizza" Height="16" HorizontalAlignment="Left" Margin="6,6,0,0" Name="radioButton1" VerticalAlignment="Top" />
+                <RadioButton Content="Calzone" Height="16" HorizontalAlignment="Left" Margin="6,20,0,0" Name="radioButton2" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="groupBox2" Height="100" HorizontalAlignment="Left" Margin="273,12,0,0" Name="groupBox2" VerticalAlignment="Top" Width="200">
+            <Grid>
+                <CheckBox Content="Pepperoni" Height="16" HorizontalAlignment="Left" Margin="6,6,0,0" Name="checkBox1" VerticalAlignment="Top" />
+                <CheckBox Content="Sausage" Height="16" HorizontalAlignment="Left" Margin="6,23,0,0" Name="checkBox2" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+        <ListBox Height="36" HorizontalAlignment="Left" Margin="28,148,0,0" Name="listBox1" VerticalAlignment="Top" Width="302">
+            <ListBoxItem Content="Olympia" />
+            <ListBoxItem Content="Seattle" />
+            <ListBoxItem Content="Redmond" />
+            <ListBoxItem Content="Bellevue" />
+            <ListBoxItem Content="Evergreen" />
+        </ListBox>
+        <Button Content="Order" Height="23" HorizontalAlignment="Left" Margin="32,272,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+    </Grid>
+</Window>

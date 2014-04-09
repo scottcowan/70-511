@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{AD80B2B0-F101-4BD7-BC25-9E7B438411C4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B79F09D9-738A-4E59-A8F4-AFE402C9D3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD80B2B0-F101-4BD7-BC25-9E7B438411C4}.Debug|x86.ActiveCfg = Debug|x86
+		{AD80B2B0-F101-4BD7-BC25-9E7B438411C4}.Debug|x86.Build.0 = Debug|x86
+		{AD80B2B0-F101-4BD7-BC25-9E7B438411C4}.Release|x86.ActiveCfg = Release|x86
+		{AD80B2B0-F101-4BD7-BC25-9E7B438411C4}.Release|x86.Build.0 = Release|x86
+		{B79F09D9-738A-4E59-A8F4-AFE402C9D3F0}.Debug|x86.ActiveCfg = Debug
+		{B79F09D9-738A-4E59-A8F4-AFE402C9D3F0}.Debug|x86.Build.0 = Debug
+		{B79F09D9-738A-4E59-A8F4-AFE402C9D3F0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

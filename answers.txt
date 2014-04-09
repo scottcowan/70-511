@@ -1,0 +1,155 @@
+Lesson 1 Review
+1 C x B
+2 D x B
+3 D
+4 B x C
+5 A x C
+6 B x A,C
+
+Lesson 3
+1 D
+2 D x C
+3 D x C
+
+C2L1
+1 B
+2 B
+3 C x A
+
+C2L2
+1 D,E x
+2 a x
+
+C2L3
+1 D
+2 D
+
+C3L1
+1 B
+2 D
+
+C3L2
+1 C
+2 D
+
+C4L1
+1 ? D 
+2 A
+3 C
+4 D
+5 all
+6 B
+7 ? D
+
+C4L2
+1 all A&D
+2 AB C
+3 c
+4 b
+5 AC
+6 d
+7 BC A
+8 D
+9 C
+10 B
+
+C4L3
+1 AB x BC
+2 D
+3 C
+4 BCE x BE
+5 x ACD
+6 BC x CD
+
+C4L4
+1 C
+2 x D
+3 x A
+4 A x B
+5 A
+
+C5L1
+1 A x AB
+2 A x AD
+3 D x C
+
+C5L2
+1 B x CD
+2 x A
+
+C5L3
+1 C
+2 D
+3 ACD
+
+C6L1
+1 AB x AD
+2 B
+3 A x D
+
+C6L2
+1 A
+2 C
+
+C6L3
+1 AD
+2 C
+3 B
+
+C7L1
+1 C
+2 D xC
+
+C7L2
+1 D
+2 C x A
+
+C8L1
+1 B
+2 C
+3 A x B
+
+C8L2
+1 ? x B
+2 D x C
+
+C9L1
+1 A x AB
+2 D x AC
+
+C9L2
+1 C
+2 ? CD
+
+C9L3
+1 AD x BD
+
+C10L1
+1 ? AB
+2 BD
+
+C10L2
+1 C
+2 D
+
+C10L3
+1 D
+2 ABCD
+
+C11L1
+1 B
+2 ABC
+
+C11L2
+1 D x CD
+2 C x AC
+
+C12L1
+1 A
+2 B
+3 BCD
+
+C12L2
+1 D x C
+2 AD x AC
+3 x AD
